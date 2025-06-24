@@ -37,10 +37,4 @@ modded class Plastic_Explosive : ExplosivesBase
 		}
 		return super.CanReleaseAttachment(attachment);
 	}
-
-	// Optional helper if needed elsewhere
-	bool CanPlaceAnywhere_HBE()
-	{
-		return FindAttachmentBySlotName("TapeSlot") != null;
-	}
 }
