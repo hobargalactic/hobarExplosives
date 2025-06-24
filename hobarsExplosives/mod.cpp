@@ -1,0 +1,11 @@
+name = "hobarsExplosives";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "Throwable Plastic Explosives";
+overview = "Allows vanilla plastic explosives to be armed, picked up, thrown, and detonated.";
+action = "";
+author = "hobargalactic";
+version = "1.0";
+type = "mod";
